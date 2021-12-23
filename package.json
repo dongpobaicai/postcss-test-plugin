@@ -8,7 +8,7 @@
   },
   "author": "wuyang <wuyang@zhuojianchina.com>",
   "license": "MIT",
-  "repository": "postcss/postcss-test-plugin",
+  "repository": "dongpobaicai/postcss-test-plugin",
   "engines": {
     "node": ">=12.0.0"
   },
